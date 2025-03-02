@@ -32,6 +32,7 @@
     "prettier": "^3.2.5",
     "prettier-plugin-svelte": "^3.2.2",
     "rehype-external-links": "^3.0.0",
+    "@resvg/resvg-js": "1.0.0",
     "rss": "^1.2.2",
     "satori": "^0.10.13",
     "satori-html": "^0.3.2",
