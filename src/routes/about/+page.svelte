@@ -11,9 +11,9 @@
 <Head title="About" />
 
 <div class="divide-y divide-gray-200 dark:divide-gray-700">
-	<div class="space-y-2 pt-6 pb-8 md:space-y-5">
-		<Title title="About" />
-	</div>
+	<!-- <div class="space-y-2 pt-6 pb-8 md:space-y-5">
+		<Title h2 title="About" />
+	</div> -->
 	<div class="items-start space-y-2 xl:grid xl:grid-cols-3 xl:gap-x-8 xl:space-y-0">
 		<div class="flex flex-col items-center py-6">
 			<img src={config.siteLogo} alt="logo" class="h-64 w-64" />
@@ -21,16 +21,19 @@
 				<SocialIcon icon="mail" url={`mailto:${config.email}`} />
 				<SocialIcon icon="github" url={config.github} />
 				<SocialIcon icon="linkedin" url={config.linkedin} />
-				<SocialIcon icon="twitter" url={config.twitter} />
+				<!-- <SocialIcon icon="twitter" url={config.twitter} /> -->
 			</div>
 		</div>
 		<div class="prose max-w-none pt-8 pb-8 dark:prose-dark xl:col-span-2">
-			Pied Piper (PP) was an American tech company based in Silicon Valley, California. The company
-			was formed in 2014 by Richard Hendricks as a company to develop Richard's algorithm that he'd
-			created. The company is best known to for achieving the highest Weissman score in history
-			during their presentation at TechCrunch Disrupt. The company's first appearance was in the
-			Season One episode Minimum Viable Product and has since served as the primary company for the
-			series.
+			<p>
+				This is a showcase, learning space, yellow pages, marketplace, anything you can imagine behind
+			reviewed functional blog posts linked to GH repositories and their authors, which tries to be as
+			broad as the regional needs. We are always happy to connect you to the most relevant people which
+			</p>
+			<p>
+				We believe and support total openness and maximum selflessness, because unfortunately there is no
+				other way to compete with the regions light-year ahead of us.
+			</p>
 		</div>
 	</div>
 	<div class="space-y-2 py-8 md:space-y-5">
@@ -46,7 +49,7 @@
 						<p class="text-gray-500 mb-2">{author.occupation}</p>
 						<div class="flex">
 							<SocialIcon small icon="mail" url={`mailto:${author.email}`} />
-							<SocialIcon small icon="twitter" url={author.twitter} />
+							<!-- <SocialIcon small icon="twitter" url={author.twitter} /> -->
 							<SocialIcon small icon="linkedin" url={author.linkedin} />
 							<SocialIcon small icon="github" url={author.github} />
 						</div>

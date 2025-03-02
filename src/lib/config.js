@@ -1,21 +1,21 @@
 export const config = {
-	title: 'Pied Piper (un)official blog',
-	author: 'Ahmad Kiarostami',
-	headerTitle: 'Pied Piper',
-	description: 'Pied Piper (un)official blog, created with Sveltekit and Tailwind.css',
+	title: 'Tech blog',
+	author: 'David Palecek',
+	headerTitle: 'Algarve Human Intelligence',
+	description: 'Marketplace and yellow pages for local tech knowledge.',
 	language: 'en-us',
 	theme: 'dark', // system, dark or light
 	domain: 'http://www.piedpiper.com/',
 	siteUrl: 'https://pied-piper-blog.netlify.app',
 	siteRepo: 'https://github.com/akiarostami/sveltekit-tailwind-blog-starter',
-	siteLogo: '/icon-512.png',
+	siteLogo: '/logo01.png',
 	// image: '/img/avatar.png',
-	email: 'info@piedpiper.com',
+	email: 'ddthumb@gmail.com',
 	github: 'https://github.com/piedpiper',
 	twitter: 'https://twitter.com/piedpiperplc',
 	facebook: 'https://www.facebook.com/piedpipersv',
 	youtube: 'https://www.youtube.com/watch?v=p3RwX06wcBs',
-	linkedin: 'https://www.linkedin.com/company/pied-piper-plc/',
+	linkedin: 'https://www.linkedin.com/company/py-ualg/',
 	locale: 'en-US',
 	primaryColor: '#06a261',
 
@@ -30,14 +30,14 @@ export const config = {
 export const user = {
 	name: 'admin',
 	// avatar value can be removed for image
-	avatar: '/logo.png',
+	avatar: '/logo01_128.png',
 	// twitter value can be removed for no link to twitter
-	twitter: 'https://twitter.com/piedpiperplc'
+	// twitter: 'https://twitter.com/piedpiperplc'
 };
 
 export const navLinks = [
 	{ href: '/about', title: 'About' },
-	{ href: '/projects', title: 'Projects' },
+	// { href: '/projects', title: 'Projects' },
 	{ href: '/blog', title: 'Blog' }
 ];
 
