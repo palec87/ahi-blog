@@ -2,9 +2,18 @@
   <br>
   <a href="https://github.com/akiarostami/sveltekit-tailwind-blog-starter"><img src="static/logo01.png" alt="Sveltekit Tailwind Blog Starter" width="200"></a>
   <br>
-  Sveltekit Tailwind Blog Starter
+  Algarve's Human Intelligence: Tech blog
   <br>
 </h1>
+
+Call for contributions, always happy to have you. Several design principles are at hand:
+- Pick a topic close to your 
+- GH repo with all the codes should be delivered together with the text
+  - we would like to host it, but it is not necessary
+- Please suggest a reviewer for your contribution, which will be mentioned 
+- Provide short bio, photo and all handles people interested can contact.
+
+## Original README from the `sveltekit-tailwind-blog-starter`
 
 <h4 align="center">An easily configurable and customizable blog starter for <a href="https://kit.svelte.dev" target="_blank">SvelteKit</a> + <a href="https://tailwindcss.com" target="_blank">Tailwind CSS</a>.</h4>
 
@@ -28,8 +37,6 @@
   <a href="#support">Support</a> •
   <a href="#license">License</a>
 </p>
-
-![screenshot](https://repository-images.githubusercontent.com/568981651/e6608d38-83e4-42b0-9733-098e94198911)
 
 ## About Sveltekit Tailwind Blog Starter
 

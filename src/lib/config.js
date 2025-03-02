@@ -60,7 +60,7 @@ export const comment = {
 	giscus: {
 		// Visit the link below, and follow the steps in the 'configuration' section
 		// https://giscus.app/
-		repo: 'akiarostami/sveltekit-tailwind-blog-starter',
+		repo: 'palec87/sveltekit-tailwind-blog-starter',
 		reposId: 'R_kgDOIen4kw',
 		category: 'Sample Site Comments',
 		categoryId: 'DIC_kwDOIen4k84CS9tX',
@@ -85,7 +85,7 @@ export const comment = {
 	utterances: {
 		// Visit the link below, and follow the steps in the 'configuration' section
 		// https://utteranc.es/
-		repo: 'akiarostami/sveltekit-tailwind-blog-starter',
+		repo: 'palec87/sveltekit-tailwind-blog-starter',
 		issueTerm: 'pathname', // supported options: pathname, url, title
 		label: 'Comment 💬', // label (optional): Comment 💬
 		// theme example: github-light, github-dark, preferred-color-scheme

@@ -9,4 +9,4 @@
 
 <Head title="Blog" />
 
-<Blogs title="All Posts" {posts} {tags} />
+<Blogs title="All Posts" h2 {posts} {tags} />
