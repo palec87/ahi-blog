@@ -11,3 +11,5 @@ pnpm-lock.yaml
 
 .history
 /content/projects/
+/src/routes/og
+/src/routes/projects
