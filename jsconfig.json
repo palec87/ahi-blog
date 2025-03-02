@@ -9,15 +9,15 @@
 		"skipLibCheck": true,
 		"sourceMap": true,
 		"strict": false,
-		"baseUrl": ".",
-		"paths": {
-			"$icons": ["./src/icons"],
-			"$icons/*": ["./src/icons/*"],
-			"$lib": ["./src/lib"],
-			"$lib/*": ["./src/lib/*"],
-			"$utils": ["./src/utils"],
-			"$utils/*": ["./src/utils/*"]
-		}
+		// "baseUrl": ".",
+		// "paths": {
+		// 	"$icons": ["./src/icons"],
+		// 	"$icons/*": ["./src/icons/*"],
+		// 	"$lib": ["./src/lib"],
+		// 	"$lib/*": ["./src/lib/*"],
+		// 	"$utils": ["./src/utils"],
+		// 	"$utils/*": ["./src/utils/*"]
+		// }
 	},
 	"include": ["src/**/*.d.ts", "src/**/*.js", "src/**/*.svelte"]
 	// Path aliases are handled by https://kit.svelte.dev/docs/configuration#alias and https://kit.svelte.dev/docs/configuration#files
@@ -25,3 +25,18 @@
 	// If you want to overwrite includes/excludes, make sure to copy over the relevant includes/excludes
 	// from the referenced tsconfig.json - TypeScript does not merge them in
 }
+
+
+
+// {
+// 	"compilerOptions": {
+// 	  "target": "es2020",
+// 	  "module": "esnext",
+// 	  "moduleResolution": "node",
+// 	  "strict": true,
+// 	  "esModuleInterop": true,
+// 	  "skipLibCheck": true,
+// 	  "forceConsistentCasingInFileNames": true
+// 	},
+// 	"exclude": ["node_modules", "build"]
+//   }
