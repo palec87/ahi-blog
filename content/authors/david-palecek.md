@@ -1,7 +1,7 @@
 ---
 name: David Palecek
 avatar: /img/dp_profile.jpg
-occupation: Bioinformaticion
+occupation: Bioinformatician
 company: CCMAR-Algarve
 email: ddthumb@gmail.com
 linkedin: https://www.linkedin.com/in/dinesh-chugtai-64644a13b/

@@ -28,7 +28,8 @@
 			<p>
 				This is a showcase, learning space, yellow pages, marketplace, anything you can imagine behind
 			reviewed functional blog posts linked to GH repositories and their authors, which tries to be as
-			broad as the regional needs. We are always happy to connect you to the most relevant people which
+			broad as the regional needs. We are always happy to connect you to the most relevant people which will
+			help you and your projects.
 			</p>
 			<p>
 				We believe and support total openness and maximum selflessness, because unfortunately there is no
