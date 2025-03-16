@@ -8,7 +8,7 @@ export const config = {
 	domain: 'http://www.piedpiper.com/',
 	siteUrl: 'https://pied-piper-blog.netlify.app',
 	siteRepo: 'https://github.com/akiarostami/sveltekit-tailwind-blog-starter',
-	siteLogo: '/logo01.png',
+	siteLogo: '/logo01_purple_512.png',
 	// image: '/img/avatar.png',
 	email: 'ddthumb@gmail.com',
 	github: 'https://github.com/piedpiper',
@@ -30,7 +30,7 @@ export const config = {
 export const user = {
 	name: 'admin',
 	// avatar value can be removed for image
-	avatar: '/logo01_128.png',
+	avatar: '/logo01_purple_128.png',
 	// twitter value can be removed for no link to twitter
 	// twitter: 'https://twitter.com/piedpiperplc'
 };
